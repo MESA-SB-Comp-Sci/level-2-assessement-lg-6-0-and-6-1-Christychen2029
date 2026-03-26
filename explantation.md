@@ -1,1 +1,1 @@
-<!-- Write explantation below of tag choice below for an attempt at a level 4  -->
+I used the class selector in order to style the many elements the same way, the "clas
